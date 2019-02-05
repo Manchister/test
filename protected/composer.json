@@ -1,0 +1,8 @@
+{
+    "name": "eng_a/protected",
+    "description": "hhv",
+	"minimum-stability" : "stable",
+    "require-dev": {
+		"ruskid/yii2-stripe": "dev-master"
+	}
+}
